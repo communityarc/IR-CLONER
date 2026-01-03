@@ -26,5 +26,4 @@ Production-grade infrared (IR) cloner firmware for the ESP8266 (Wemos D1 Mini) t
 - 2 Push Buttons
 - Built-in LED
 
-## License
-MIT License
+
