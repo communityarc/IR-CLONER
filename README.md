@@ -1,3 +1,15 @@
+██╗██████╗      ██████╗██╗      ██████╗ ███╗   ██╗███████╗██████╗ 
+██║██╔══██╗    ██╔════╝██║     ██╔═══██╗████╗  ██║██╔════╝██╔══██╗
+██║██████╔╝    ██║     ██║     ██║   ██║██╔██╗ ██║█████╗  ██████╔╝
+██║██╔══██╗    ██║     ██║     ██║   ██║██║╚██╗██║██╔══╝  ██╔══██╗
+██║██║  ██║    ╚██████╗███████╗╚██████╔╝██║ ╚████║███████╗██║  ██║
+╚═╝╚═╝  ╚═╝     ╚═════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+
+
+
+
+
+
 IR Cloner Firmware (ESP8266 – D1 Mini)
 
 Production-grade infrared (IR) cloner firmware for the ESP8266 (Wemos D1 Mini) that captures raw IR signals from original remotes and accurately retransmits them on demand using hardware buttons and a non-blocking state machine.
